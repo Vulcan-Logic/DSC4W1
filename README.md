@@ -1,2 +1,5 @@
-# DSC4W1
-Data Science Course 4 Week 1 Assignment
+# John Hopkins Data Science Course 4 Week 4 Exercise
+Data Plotting
+Year 2017
+Language: R
+
